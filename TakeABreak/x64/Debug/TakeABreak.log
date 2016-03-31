@@ -1,0 +1,4 @@
+﻿  Win64_TakeABreak.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1193,5): warning MSB8030: The linker switch "Minimum Required Version" requires "SubSystem" to be set.  Without "SubSystem", the "Minimum Required Version" would not be passed to linker and could prevent to the output binary from running on older Operating Systems.
+  TakeABreak.vcxproj -> D:\scottsdocs\sourcecode\TakeABreak\TakeABreak\..\build\TakeABreak.exe
+  TakeABreak.vcxproj -> D:\scottsdocs\sourcecode\TakeABreak\TakeABreak\..\build\TakeABreak.pdb (Partial PDB)
